@@ -1,4 +1,4 @@
-# Basic-Banking-System
+https://yashcreditsystem.000webhostapp.com/# Basic-Banking-System
 Basic Banking System
 # the-sparks-foundation
 Sparks Foundation Internship Project : Basic Banking System  
@@ -10,7 +10,7 @@ Front-end : HTML, CSS, Bootstrap & Javascript
 Back-end : PHP 
 Database : MySQL
 
-website: https://yashcreditsystem.000webhostapp.com/index.php/index.php
+website: https://yashcreditsystem.000webhostapp.com/
 
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
